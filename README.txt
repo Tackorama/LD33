@@ -42,7 +42,7 @@ PS Beware of the sugar plum fairy.
 Controls
 ---------------------------------
 Click mouse. That's it.
-M disables music in game (it can get annoying).
+m disables music in-game (it can get annoying).
 
 ---------------------------------
 Bugs
@@ -55,7 +55,10 @@ Notes
 ---------------------------------
 Game defaults to windowed display of 1280 x 720 - change in options screen.
 
-Tested on Mac and Windows. Linux - sorry - you are the guinea pigs.
+All versions are 32 and 64 bit compatiable
+(Tested on Mac and Windows. Linux - sorry - you are the guinea pigs.)
+PC users download either 32 or 64 bit version.
+Mac and Linux - the file is universal (32 and 64 bit compatible).
 
 I've opted out of graphics judging because:
 1) The paper scrolls on the title are clip art (stop looking at me like that).
@@ -64,3 +67,11 @@ I've opted out of graphics judging because:
 Everything else is original and created within the 72 hours, by one man and his Apple Mac.
 
 Enjoy killing the fairies.
+
+Tackorama
+www.tackorama.co.uk
+
+---------------------------------
+Download Links
+---------------------------------
+https://github.com/Tackorama/LD33
